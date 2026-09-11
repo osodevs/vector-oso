@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#0b0c11"/>
+  <rect x="50" y="50" width="700" height="700" rx="16" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+
+  <text x="90" y="110" fill="#8e90a6" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="600" letter-spacing="2.5">NO CONTRACT · NO PAYWALL</text>
+
+  <!-- Logo Centered/Top -->
+  <g transform="translate(90, 150) scale(1.6)">
+    <path d="M134.12,74.11l-17.29,17.22c-17.54,15.96-44.56,14.72-61.09-1.83l-15.2-15.22c3.29-5.04,4.51-9.84,4.03-15.42-1.19-13.72-14.46-22.73-27.6-19.5C3.86,42.58-3.54,57.03,1.69,69.56c5.15,12.33,19.64,17.65,31.73,11.01l16.41,16.28c19.82,19.67,52.01,20.45,72.94,1.81l18.55-18.15c9.17,4.76,19.74,3.25,26.6-3.49,6.95-6.84,9.04-17.22,4.32-26.45-6.04-11.8-20.97-15.45-31.74-8.58-10.72,6.83-13.77,21.09-6.38,32.13ZM13.25,70.19c-5.05-5.05-5.05-13.23,0-18.27s13.23-5.05,18.27,0,5.05,13.23,0,18.27-13.23,5.05-18.27,0ZM161.56,51.76c5.06,5.06,5.06,13.27,0,18.33s-13.27,5.06-18.33,0-5.06-13.27,0-18.33,13.27-5.06,18.33,0Z" fill="#3b82f6"/>
+    <path fill-rule="evenodd" transform="translate(3.89 0)" d="M83.50,2.00C99.52,2.00 112.50,16.51 112.50,34.40C112.50,52.29 99.52,66.80 83.50,66.80C67.48,66.80 54.50,52.29 54.50,34.40C54.50,16.51 67.48,2.00 83.50,2.00ZM83.50,14.50C75.49,14.50 69.00,23.41 69.00,34.40C69.00,45.39 75.49,54.30 83.50,54.30C91.51,54.30 98.00,45.39 98.00,34.40C98.00,23.41 91.51,14.50 83.50,14.50Z" fill="#3b82f6"/>
+  </g>
+
+  <!-- Big Typography -->
+  <g transform="translate(90, 440)">
+    <text x="0" y="0" fill="#ffffff" font-family="'Outfit', -apple-system, sans-serif" font-size="96" font-weight="900" letter-spacing="-2.5">VECTOR</text>
+    <text x="0" y="92" fill="#ffffff" font-family="'Outfit', -apple-system, sans-serif" font-size="96" font-weight="900" letter-spacing="-2.5">OSO<tspan fill="#3b82f6">.</tspan></text>
+    <line x1="0" y1="108" x2="240" y2="108" stroke="#3b82f6" stroke-width="4.5"/>
+  </g>
+
+  <!-- Bottom Copy -->
+  <g transform="translate(90, 620)">
+    <text x="0" y="0" fill="#ffffff" font-family="'Inter', -apple-system, sans-serif" font-size="28" font-weight="700">We keep it simple.</text>
+    <text x="0" y="38" fill="#ffffff" font-family="'Inter', -apple-system, sans-serif" font-size="28" font-weight="700">0€ = Unlimited downloads.</text>
+    <text x="0" y="78" fill="#8e90a6" font-family="'JetBrains Mono', monospace" font-size="14">incl. 100% privacy</text>
+  </g>
+</svg>
